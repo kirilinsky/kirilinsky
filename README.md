@@ -64,25 +64,31 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td   align="center">
       <b>Config-Driven Forms</b><br/>
       <i>React + Zod + Shadcn</i><br/>
       <a href="https://form-factor.vercel.app">View Project</a>
     </td>
-    <td width="33%" align="center">
+    <td   align="center">
       <b>who dat - AI guess game</b><br/>
       <i>Next.js</i><br/>
       <a href="https://whodat.space">View Project</a>
     </td>
-    <td width="33%" align="center">
+    <td  align="center">
       <b>Get penguin</b><br/>
       <i>NFT game [ended]</i><br/>
       <a href="https://getpenguin.top/">Check it</a>
     </td>
-      <td width="33%" align="center">
+      <td   align="center">
       <b>Medium</b><br/>
       <i>from time to time :D</i><br/>
       <a href="https://medium.com/@kirilinsky">Check it</a>
+    </td>
+    </td>
+      <td  align="center">
+      <b>NPM package for Next.js</b><br/>
+      <i>language switcher (cookie manager)</i><br/>
+      <a href="https://www.npmjs.com/package/next-language-selector">Try it</a>
     </td>
   </tr>
 </table>
