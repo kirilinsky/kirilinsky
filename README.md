@@ -27,7 +27,8 @@ Jokes aside, I’m focused on becoming a contributing member of the OSS communit
  
 ---
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
-**[react-calendar-datetime](https://github.com/kirilinsky/react-calendar-datetime)** `NPM` · Zero dependency React calendar with themes and i18n.
+
+**[react-calendar-datetime](https://github.com/kirilinsky/react-calendar-datetime)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
