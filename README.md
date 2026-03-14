@@ -6,28 +6,24 @@ Lead Frontend Engineer (8+ years) obsessed with React, Next.js, Css and **A11y**
 
 ### 🏆 Expertise & Focus
 
-* 💳 **FinTech:** Designing seamless, secure payment flows for high-volume e-commerce that make the stress of spending money feel invisible.
+* 💳 **FinTech:** Designing seamless, secure payment flows for e-commerce that make stress of spending money feel invisible.
 * 📋 **Forms:** Building robust multi-step forms that don't suck to fill out. I mean, what else did you expect from a frontend engineer?
 * 📦 **NPM:** If I solve a problem twice, I turn it into a library. More libraries to the god of libraries.
 * ⚡ **Performance:** Chasing Lighthouse 100s and Core Web Vitals like a high-stakes game.
 * 🧪 **Testing:** I have a love-hate relationship with it. Mostly hate, but I keep looking for the love through the pain of broken pipelines.
 * 🤖 **AI:** Experimenting with LLMs and AI-driven tools — mostly to stay useful until they inevitably replace us.
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+
 
 ### 🛠 The "Open Source" Mission
 
 I’m currently on a mission to open the **Open** **Source**. 
 
-Jokes aside, I’m focused on becoming a contributing member of the OSS community. I’ve shipped tools like [next-language-selector](https://www.npmjs.com/package/next-language-selector) and [react-calendar-datetime](https://github.com/kirilinsky/react-calendar-datetime) , and I'm constantly looking for ways to give back to the ecosystem that built my career.
-
----
- 
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+Jokes aside, I’m focused on becoming a contributing member of the OSS community. I'm constantly looking for ways to give back to the ecosystem that built my career, and I’ve shipped tools like: 
  
 ---
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
