@@ -51,13 +51,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
-**CMS & Specialized**
-
-![Acquia](https://img.shields.io/badge/Acquia-0077C0?style=for-the-badge&logo=acquia&logoColor=white)
-![Joomla](https://img.shields.io/badge/Joomla-%23F47321.svg?style=for-the-badge&logo=joomla&logoColor=white)
-![AEM](https://img.shields.io/badge/Adobe_Experience_Manager-FF0000?style=for-the-badge)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
+ 
 ---
 
 ### 🚀 Some last Projects
