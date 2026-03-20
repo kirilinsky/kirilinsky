@@ -38,6 +38,8 @@ Jokes aside, I’m focused on becoming a contributing member of the OSS communit
 
 **[var(-th)](https://github.com/kirilinsky/varth)** `NPM` · `TS` · CSS theme creator/injector.
 
+**[react-ai-chat-actions](https://github.com/kirilinsky/react-ai-chat-actions)** `NPM` · `React` · Actions bar for AI (and not only) chats.
+
 **[Medium](https://medium.com/@kirilinsky)** `Writing` · Sharing thoughts from time to time. 
 
 ---
