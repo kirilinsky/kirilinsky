@@ -28,13 +28,15 @@ Jokes aside, I’m focused on becoming a contributing member of the OSS communit
 ---
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
-**[react-calendar-datetime](https://github.com/kirilinsky/react-calendar-datetime)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
+**[react-calendar-datetime](https://calendar-demo-pi.vercel.app/?step=0)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
 **[who dat](https://whodat.space)** `Next.js` · `PostgreSQL` · AI-powered guessing game (just for fun).
 
 **[Get penguin](https://getpenguin.top/)** `Next.js` · `NFT` · NFT-cards game, now on hold.
+
+**[var(-th)](https://github.com/kirilinsky/varth)** `NPM` · `TS` · CSS theme creator/injector.
 
 **[Medium](https://medium.com/@kirilinsky)** `Writing` · Sharing thoughts from time to time. 
 
