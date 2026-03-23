@@ -1,17 +1,20 @@
-# Sup ⌑ Kirill here
+# Sup, Kirill here ⌑
 
-I build things and, more importantly, I break things just to learn how to fix them.
+I build things. Sometimes they work.
 
-Lead Frontend Engineer (8+ years) obsessed with React, Next.js, Css and **A11y**. I believe software should be inclusive by default, not as an afterthought.
+Frontend Engineer (8+ yrs) — TS, React, Next.js, CSS, A11y and CI Platforms.
+I think software should be inclusive by default.
 
-### 🏆 Expertise & Focus
+### what I'm into
 
-* 💳 **FinTech:** Designing seamless, secure payment flows for e-commerce that make stress of spending money feel invisible.
-* 📋 **Forms:** Building robust multi-step forms that don't suck to fill out. I mean, what else did you expect from a frontend engineer?
-* 📦 **NPM:** If I solve a problem twice, I turn it into a library. More libraries to the god of libraries.
-* ⚡ **Performance:** Chasing Lighthouse 100s and Core Web Vitals like a high-stakes game.
-* 🧪 **Testing:** I have a love-hate relationship with it. Mostly hate, but I keep looking for the love through the pain of broken pipelines.
-* 🤖 **AI:** Experimenting with LLMs and AI-driven tools — mostly to stay useful until they inevitably replace us.
+* 🤖 **AI** — trying to use it before it uses me
+* ⚡ **Perf** — Lighthouse scores as a personality trait 
+* 🧪 **Testing** — complicated relationship. working on it
+* 💳 **FinTech** — payment flows that don't make users panic
+* 📦 **NPM** — if I solve something twice, it becomes a package. can't help it
+* 📋 **Forms** — multi-step, robust, usable. what did you expect from frontend dev?
+* 🎨 **CSS & Design Systems** — tokens, components, the occasional argument with Figma
+ 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
@@ -19,13 +22,19 @@ Lead Frontend Engineer (8+ years) obsessed with React, Next.js, Css and **A11y**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 
 
-### 🛠 The "Open Source" Mission
+### 🛠 Open Source
 
-I’m currently on a mission to open the **Open** **Source**. 
+Focused on giving back to the ecosystem that built my career.
+Recently shipped:
 
-Jokes aside, I’m focused on becoming a contributing member of the OSS community. I'm constantly looking for ways to give back to the ecosystem that built my career, and I’ve shipped tools like: 
+<a href="https://anywhen-kappa.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/c5d79cf0-66a5-4b12-895d-a039fa87ced4" width="254" height="130" alt="anywhen" />
+</a>
+
+**[anywhen](https://anywhen-kappa.vercel.app/)** — date formatting for any locale. `~800b` · zero deps · 200+ languages via native `Intl`.
  
 ---
+
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
 **[react-calendar-datetime](https://calendar-demo-pi.vercel.app/?step=0)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
