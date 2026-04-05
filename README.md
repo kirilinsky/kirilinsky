@@ -2,7 +2,7 @@
 
 I build things. Sometimes they work.
 
-Frontend Engineer (8+ yrs) — TS, React, Next.js, CSS, A11y and CI Platforms.
+Lead Frontend Engineer (8+ yrs) — TS, React, Next.js, CSS, A11y and CI Platforms.
 I think software should be inclusive by default.
 
 ### what I'm into
@@ -55,5 +55,4 @@ Recently shipped:
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-chernenko-1207b7a9/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kirilinsky.bsky.social) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-chernenko-1207b7a9/) 
