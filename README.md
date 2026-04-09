@@ -9,8 +9,8 @@ I think software should be inclusive by default.
 
 * 🤖 **AI** — trying to use it before it uses me
 * ⚡ **Perf** — Lighthouse scores as a personality trait 
-* 🧪 **Testing** — complicated relationship. working on it
-* 💳 **FinTech** — payment flows that don't make users panic
+* 🧪 **Testing** — really complicated relationship. working on it
+* 💳 **FinTech** — payment flows that don't make users panic to spend money
 * 📦 **NPM** — if I solve something twice, it becomes a package. can't help it
 * 📋 **Forms** — multi-step, robust, usable. what did you expect from frontend dev?
 * 🎨 **CSS & Design Systems** — tokens, components, the occasional argument with Figma
@@ -48,6 +48,8 @@ Recently shipped:
 **[var(-th)](https://github.com/kirilinsky/varth)** `NPM` · `TS` · CSS theme creator/injector.
 
 **[react-ai-chat-actions](https://github.com/kirilinsky/react-ai-chat-actions)** `NPM` · `React` · Actions bar for AI (and not only) chats.
+
+**[Pad menu](https://padmenu.vercel.app/)**  `React` · `PWA` · iPad menu, just for fun. 
 
 **[Medium](https://medium.com/@kirilinsky)** `Writing` · Sharing thoughts from time to time. 
 
