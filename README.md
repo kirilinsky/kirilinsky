@@ -13,14 +13,13 @@ I think software should be inclusive by default.
 * 💳 **FinTech** — payment flows that don't make users panic to spend money
 * 📦 **NPM** — if I solve something twice, it becomes a package. can't help it
 * 📋 **Forms** — multi-step, robust, usable. what did you expect from frontend dev?
-* 🎨 **CSS & Design Systems** — tokens, components, the occasional argument with Figma
+* 🎨 **CSS & Design Systems** — tokens, components, new css features and the occasional argument with Figma
  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 🛠 Open Source
 
