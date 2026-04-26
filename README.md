@@ -36,7 +36,7 @@ Recently shipped:
 
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
-**[react-calendar-datetime](https://calendar-demo-pi.vercel.app/?step=0)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
+**[dateforge-react-calendar](https://calendar-demo-pi.vercel.app/?step=0)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
