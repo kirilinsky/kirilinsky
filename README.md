@@ -26,22 +26,35 @@ I think software should be inclusive by default.
 Focused on giving back to the ecosystem that built my career.
 Recently shipped:
 
-<a href="https://anywhen-kappa.vercel.app/">
-  <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="285" height="130" alt="anywhen" />
-</a>
-
-**[anywhen](https://anywhen-kappa.vercel.app/)** — date formatting for any locale. `~900b` · zero deps · 200+ languages via native `Intl`.
----
-
-<a href="https://calendar-demo-pi.vercel.app">
-  <img src="https://i.ibb.co/8DBQNLjt/11-nobg.png" width="250" height="250" alt="calendar logo" />
-</a>
-
-**[dateforge-react-calendar](https://calendar-demo-pi.vercel.app)** `NPM` · Composable calendar system for React interfaces.
-
-
+<table>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <a href="https://anywhen-kappa.vercel.app/">
+        <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="220" alt="anywhen" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://anywhen-kappa.vercel.app/">anywhen</a></h3>
+      <p>Date formatting for any locale.</p>
+      <p><code>~900b</code> · zero deps · 200+ languages via native <code>Intl</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <a href="https://calendar-demo-pi.vercel.app">
+        <img src="https://i.ibb.co/Qjf71yNg/small-fav.png" width="220" alt="dateforge-react-calendar" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://calendar-demo-pi.vercel.app">dateforge-react-calendar</a> <sub><code>NPM</code></sub></h3>
+      <p>Composable calendar system for React interfaces.</p>
+    </td>
+  </tr>
+</table>
  
 ---
+
+### and more other things:
 
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
