@@ -27,16 +27,25 @@ Focused on giving back to the ecosystem that built my career.
 Recently shipped:
 
 <a href="https://anywhen-kappa.vercel.app/">
-  <img src="https://github.com/user-attachments/assets/c5d79cf0-66a5-4b12-895d-a039fa87ced4" width="254" height="130" alt="anywhen" />
+  <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="285" height="130" alt="anywhen" />
 </a>
 
-**[anywhen](https://anywhen-kappa.vercel.app/)** — date formatting for any locale. `~800b` · zero deps · 200+ languages via native `Intl`.
+**[anywhen](https://anywhen-kappa.vercel.app/)** — date formatting for any locale. `~900b` · zero deps · 200+ languages via native `Intl`.
+---
+
+<a href="https://calendar-demo-pi.vercel.app">
+  <img src="https://i.ibb.co/8DBQNLjt/11-nobg.png" width="250" height="250" alt="calendar logo" />
+</a>
+
+**[dateforge-react-calendar](https://calendar-demo-pi.vercel.app)** `NPM` · Composable calendar system for React interfaces.
+
+
  
 ---
 
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
-**[dateforge-react-calendar](https://calendar-demo-pi.vercel.app/?step=0)** `NPM` · Zero dependency React calendar and date picker with themes and i18n.
+
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
