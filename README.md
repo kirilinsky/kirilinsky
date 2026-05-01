@@ -2,18 +2,19 @@
 
 I build things. Sometimes they work.
 
-Lead Frontend Engineer (8+ yrs) — TS, React, Next.js, CSS, A11y and CI Platforms.
-I think software should be inclusive by default.
+Lead Frontend Engineer (8+ yrs) — TS, React, Next.js, CSS, A11y, and CI platforms.  
+I care about inclusive software, thoughtful APIs, and developer experience that does not get in the way.
 
-### what I'm into
+### What I'm into
 
-* 🤖 **AI** — trying to use it before it uses me
-* ⚡ **Perf** — Lighthouse scores as a personality trait 
-* 🧪 **Testing** — really complicated relationship. working on it
-* 💳 **FinTech** — payment flows that don't make users panic to spend money
-* 📦 **NPM** — if I solve something twice, it becomes a package. can't help it
-* 📋 **Forms** — multi-step, robust, usable. what did you expect from frontend dev?
-* 🎨 **CSS & Design Systems** — tokens, components, new css features and the occasional argument with Figma
+* 🤖 `AI` — trying to use it before it uses me 
+* 💳 `FinTech` — payment flows that don't make users panic
+* 🧪 `Testing` — really complicated relationship. working on it
+* 🧰 `CI/CD` — teaching GitHub Actions to judge my code before people do
+* 📦 `NPM` — if I solve something twice, it becomes a package. can't help it
+* ⚡ `Performance` — trying to understand the bottlenecks before blaming React
+* 📋 `Forms` — multi-step, robust, usable. what did you expect from frontend dev?
+* 🎨 `CSS` — tokens, components, new css features and the occasional argument with Figma
  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,31 +24,67 @@ I think software should be inclusive by default.
 
 ### 🛠 Open Source
 
-Focused on giving back to the ecosystem that built my career.
-Recently shipped:
+Small frontend tools, UI primitives, and tiny attempts to make developer experience less annoying.
 
 <table>
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <a href="https://anywhen-kappa.vercel.app/">
-        <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="220" alt="anywhen" />
+
+   <tr>
+    <td width="240" align="center" valign="middle">
+      <a href="https://calendar-demo-pi.vercel.app">
+        <img src="https://i.ibb.co/Qjf71yNg/small-fav.png" width="200" alt="Dateforge logo" />
       </a>
     </td>
     <td valign="middle">
-      <h3><a href="https://anywhen-kappa.vercel.app/">anywhen</a></h3>
-      <p>Date formatting for any locale.</p>
-      <p><code>~900b</code> · zero deps · 200+ languages via native <code>Intl</code></p>
+      <h3>
+        <a href="https://calendar-demo-pi.vercel.app">Dateforge Calendar</a>
+      </h3> 
+      <p>
+        Composable calendar primitives for React interfaces.
+      </p>
+      <p>
+        Part of the growing <strong>Dateforge</strong> ecosystem for date/time UI.
+      </p>
+      <sub><code>NPM</code> · <code>React</code> · <code>UI</code></sub>
     </td>
   </tr>
+  
   <tr>
-    <td width="260" align="center" valign="middle">
-      <a href="https://calendar-demo-pi.vercel.app">
-        <img src="https://i.ibb.co/Qjf71yNg/small-fav.png" width="220" alt="dateforge-react-calendar" />
+    <td width="240" align="center" valign="middle">
+      <a href="https://anywhen-kappa.vercel.app/">
+        <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="200" alt="anywhen logo" />
       </a>
     </td>
     <td valign="middle">
-      <h3><a href="https://calendar-demo-pi.vercel.app">dateforge-react-calendar</a> <sub><code>NPM</code></sub></h3>
-      <p>Composable calendar system for React interfaces.</p>
+      <h3>
+        <a href="https://anywhen-kappa.vercel.app/">anywhen</a> 
+      </h3> 
+      <p>
+        Tiny date/time formatting for any locale.
+      </p>
+      <p>
+        <code>~900b</code> · zero dependencies · smart / absolute / relative output · 200+ locales via native <code>Intl</code>
+      </p>
+      <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code></sub>
+    </td>
+  </tr> 
+
+  <tr>
+    <td width="240" align="center" valign="middle">
+      <a href="https://github.com/kirilinsky/varth">
+        <img src="https://i.ibb.co/LDRCjDTj/varth-logo-t.png" width="205" alt="var(-th) logo" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>
+        <a href="https://github.com/kirilinsky/varth">var(-th)</a>
+      </h3>  
+      <p>
+        Type-safe CSS theme creator and injector.
+      </p>
+      <p>
+        Generate, inject, and manage design tokens without hand-writing every custom property.
+      </p>
+       <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code></sub>
     </td>
   </tr>
 </table>
@@ -64,9 +101,7 @@ Recently shipped:
 
 **[who dat](https://whodat.space)** `Next.js` · `PostgreSQL` · AI-powered guessing game (just for fun).
 
-**[Get penguin](https://getpenguin.top/)** `Next.js` · `NFT` · NFT-cards game, now on hold.
-
-**[var(-th)](https://github.com/kirilinsky/varth)** `NPM` · `TS` · CSS theme creator/injector.
+**[Get penguin](https://getpenguin.top/)** `Next.js` · `NFT` · NFT-cards game, now on hold. 
 
 **[react-ai-chat-actions](https://github.com/kirilinsky/react-ai-chat-actions)** `NPM` · `React` · Actions bar for AI (and not only) chats.
 
