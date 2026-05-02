@@ -29,7 +29,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 <table>
 
    <tr>
-    <td width="240" align="center" valign="middle">
+    <td width="235" align="center" valign="middle">
       <a href="https://calendar-demo-pi.vercel.app">
         <img src="https://i.ibb.co/Qjf71yNg/small-fav.png" width="200" alt="Dateforge logo" />
       </a>
