@@ -29,9 +29,9 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 <table>
 
    <tr>
-    <td width="235" align="center" valign="middle">
+    <td width="240" align="center" valign="middle">
       <a href="https://calendar-demo-pi.vercel.app">
-        <img src="https://i.ibb.co/Qjf71yNg/small-fav.png" width="200" alt="Dateforge logo" />
+        <img src="https://i.ibb.co/Qjf71yNg/small-fav.png" width="186" alt="Dateforge logo" />
       </a>
     </td>
     <td valign="middle">
@@ -79,7 +79,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
         <a href="https://react-raffle-one.vercel.app/">React Raffle Picker</a>
       </h3>  
       <p>
-        Tiny raffle engine. Big winner energy.
+       React like you just won.
       </p>
       <p>
         A headless, composable React component for giveaways, raffles, and slot-machine UIs. 
