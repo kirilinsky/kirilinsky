@@ -68,6 +68,26 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
     </td>
   </tr> 
 
+   <tr>
+    <td width="240" align="center" valign="middle">
+      <a href="https://react-raffle-one.vercel.app">
+        <img src="https://i.ibb.co/k2MRQCqT/logo-nbg.png" width="205" alt="raffle logo" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>
+        <a href="https://react-raffle-one.vercel.app/">React Raffle Picker</a>
+      </h3>  
+      <p>
+        Tiny raffle engine. Big winner energy.
+      </p>
+      <p>
+        A headless, composable React component for giveaways, raffles, and slot-machine UIs. 
+      </p>
+       <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code></sub>
+    </td>
+  </tr>
+
   <tr>
     <td width="240" align="center" valign="middle">
       <a href="https://github.com/kirilinsky/varth">
