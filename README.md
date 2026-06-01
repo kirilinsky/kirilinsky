@@ -121,7 +121,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 
 **[who dat](https://whodat.space)** `Next.js` · `PostgreSQL` · AI-powered guessing game (just for fun).
 
-**[Get penguin](https://getpenguin.top/)** `Next.js` · `NFT` · NFT-cards game, now on hold. 
+**[Get penguin](https://penguin-parade.vercel.app)** `Next.js` · `NFT` · NFT-cards game, now on hold. 
 
 **[react-ai-chat-actions](https://github.com/kirilinsky/react-ai-chat-actions)** `NPM` · `React` · Actions bar for AI (and not only) chats.
 
