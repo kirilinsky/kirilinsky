@@ -110,11 +110,13 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 
 ### and more other things:
 
-**[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
 
+**[Medium](https://medium.com/@kirilinsky)** `Writing` · Sharing thoughts from time to time. 
 
 **[Roostr](https://roostr-two.vercel.app/)** `Next.js` · `Canvas` · Collect-trade-fight game with small roosters. 
+
+**[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
@@ -125,11 +127,4 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 **[react-ai-chat-actions](https://github.com/kirilinsky/react-ai-chat-actions)** `NPM` · `React` · Actions bar for AI (and not only) chats.
 
 **[Pad menu](https://padmenu.vercel.app/)**  `React` · `PWA` · iPad menu, just for fun. 
-
-**[Medium](https://medium.com/@kirilinsky)** `Writing` · Sharing thoughts from time to time. 
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-chernenko-1207b7a9/) 
+ 
