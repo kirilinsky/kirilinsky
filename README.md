@@ -1,10 +1,7 @@
 # Sup, Kirill here ⌑
 
 I build things. Sometimes they work.
-
-Lead Frontend Engineer (8+ yrs) — TS, React, Next.js, CSS, A11y, and CI platforms.  
-I care about inclusive software, thoughtful APIs, and developer experience that does not get in the way.
-
+  
 ### What I'm into
 
 * 🤖 `AI` — trying to use it before it uses me 
@@ -116,6 +113,8 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
 
+
+**[Roostr](https://roostr-two.vercel.app/)** `Next.js` · `Canvas` · Collect-trade-fight game with small roosters. 
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
