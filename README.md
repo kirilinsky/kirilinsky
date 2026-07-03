@@ -45,25 +45,44 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
     </td>
   </tr>
   
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <a href="https://anywhen-kappa.vercel.app/">
-        <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="200" alt="anywhen logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>
-        <a href="https://anywhen-kappa.vercel.app/">anywhen</a> 
-      </h3> 
-      <p>
-        Tiny date/time formatting for any locale.
-      </p>
-      <p>
-        <code>~900b</code> · zero dependencies · smart / absolute / relative output · 200+ locales via native <code>Intl</code>
-      </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code></sub>
-    </td>
-  </tr> 
+ <tr>
+  <td width="240" align="center" valign="middle">
+    <a href="https://anywhen-kappa.vercel.app/">
+      <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="200" alt="anywhen logo" />
+    </a>
+  </td>
+  <td valign="middle">
+    <h3>
+      <a href="https://anywhen-kappa.vercel.app/">anywhen</a>
+    </h3>
+    <p>
+      Tiny human-readable date/time formatting for any locale.
+    </p>
+    <p>
+      <code>~1.3kb</code> · zero dependencies · smart / absolute / relative modes · SSR-safe · 200+ locales via native <code>Intl</code>
+    </p>
+    <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
+  </td>
+</tr>
+<tr>
+  <td width="240" align="center" valign="middle">
+    <a href="https://github.com/kirilinsky/anyamount">
+      <img src="https://raw.githubusercontent.com/kirilinsky/anyamount/main/logo.png" width="200" alt="anyamount logo" />
+    </a>
+  </td>
+  <td valign="middle">
+    <h3>
+      <a href="https://github.com/kirilinsky/anyamount">anyamount</a>
+    </h3>
+    <p>
+      Tiny number formatting for any locale — compact, currency, units.
+    </p>
+    <p>
+      <code>~1.5kb</code> · zero dependencies · <code>1.2M</code> / <code>€1,999</code> / <code>3.2 GB</code> · 200+ locales via native <code>Intl</code>
+    </p>
+    <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
+  </td>
+</tr>
 
    <tr>
     <td width="240" align="center" valign="middle">
