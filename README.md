@@ -4,14 +4,22 @@ I build things. Sometimes they work.
   
 ### What I'm into
 
-* 🤖 `AI` — trying to use it before it uses me 
-* 💳 `FinTech` — payment flows that don't make users panic
-* 🧪 `Testing` — really complicated relationship. working on it
-* 🧰 `CI/CD` — teaching GitHub Actions to judge my code before people do
-* 📦 `NPM` — if I solve something twice, it becomes a package. can't help it
-* ⚡ `Performance` — trying to understand the bottlenecks before blaming React
-* 📋 `Forms` — multi-step, robust, usable. what did you expect from frontend dev?
-* 🎨 `CSS` — tokens, components, new css features and the occasional argument with Figma
+<table >
+  <tr>
+    <td align="center" width="180">🤖<br /><code>AI</code><br /><sub>trying to use it before it uses me</sub></td>
+    <td align="center" width="180">💳<br /><code>FinTech</code><br /><sub>payment flows that don't make users panic</sub></td>
+    <td align="center" width="180">🧪<br /><code>Testing</code><br /><sub>really complicated relationship. working on it</sub></td>
+    <td align="center" width="180">🧰<br /><code>CI/CD</code><br /><sub>teaching GitHub Actions to judge my code before people do</sub></td>
+    <td align="center" width="180">🌍<br /><code>Intl</code><br /><sub>the browser speaks 200+ languages. I just take the credit</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="180">📦<br /><code>NPM</code><br /><sub>if I solve something twice, it becomes a package. can't help it</sub></td>
+    <td align="center" width="180">⚡<br /><code>Performance</code><br /><sub>trying to understand the bottlenecks before blaming React</sub></td>
+    <td align="center" width="180">📋<br /><code>Forms</code><br /><sub>multi-step, robust, usable. what did you expect?</sub></td>
+    <td align="center" width="180">🎨<br /><code>CSS</code><br /><sub>tokens, components, and the occasional argument with Figma</sub></td>
+<td align="center" width="180">🧑‍🏫<br /><code>Mentoring</code><br /><sub>explaining React until it finally explains itself</sub></td>
+  </tr>
+</table>
  
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -66,13 +74,13 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 </tr>
 <tr>
   <td width="240" align="center" valign="middle">
-    <a href="https://github.com/kirilinsky/anyamount">
+    <a href="https://anyamount.vercel.app">
       <img src="https://raw.githubusercontent.com/kirilinsky/anyamount/main/logo.png" width="200" alt="anyamount logo" />
     </a>
   </td>
   <td valign="middle">
     <h3>
-      <a href="https://github.com/kirilinsky/anyamount">anyamount</a>
+      <a href="https://anyamount.vercel.app/">anyamount</a>
     </h3>
     <p>
       Tiny number formatting for any locale — compact, currency, units.
@@ -106,13 +114,13 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 
   <tr>
     <td width="240" align="center" valign="middle">
-      <a href="https://github.com/kirilinsky/varth">
+      <a href="https://kirilinsky.github.io/varth">
         <img src="https://i.ibb.co/LDRCjDTj/varth-logo-t.png" width="205" alt="var(-th) logo" />
       </a>
     </td>
     <td valign="middle">
       <h3>
-        <a href="https://github.com/kirilinsky/varth">var(-th)</a>
+        <a href="https://kirilinsky.github.io/varth">var(-th)</a>
       </h3>  
       <p>
         Type-safe CSS theme creator and injector.
