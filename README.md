@@ -27,6 +27,8 @@ I build things. Sometimes they work.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+✍️ Occasionally writing about frontend on **[Medium](https://medium.com/@kirilinsky)**
+
 ### 🛠 Open Source
 
 Small frontend tools, UI primitives, and tiny attempts to make developer experience less annoying.
@@ -46,9 +48,9 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       <p>
         Composable calendar primitives for React interfaces.
       </p>
-      <p>
-        Part of the growing <strong>Dateforge</strong> ecosystem for date/time UI.
-      </p>
+     <p>
+    range &amp; multi-select · keyboard navigation · themeable via CSS tokens
+</p>
       <sub><code>NPM</code> · <code>React</code> · <code>UI</code></sub>
     </td>
   </tr>
@@ -135,23 +137,16 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
  
 ---
 
-### and more other things:
-
-
-
-**[Medium](https://medium.com/@kirilinsky)** `Writing` · Sharing thoughts from time to time. 
-
+### And some more
+ 
 **[Roostr](https://roostr-two.vercel.app/)** `Next.js` · `Canvas` · Collect-trade-fight game with small roosters. 
 
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
 
 **[Config-Driven Forms](https://form-factor.vercel.app)** `React` · `Zod` · Schema-to-UI generator for rapid form development.
 
-**[who dat](https://whodat.space)** `Next.js` · `PostgreSQL` · AI-powered guessing game (just for fun).
-
-**[Get penguin](https://penguin-parade.vercel.app)** `Next.js` · `NFT` · NFT-cards game, now on hold. 
-
+**[who dat](https://whodat.space)** `Next.js` · `PostgreSQL` · AI-powered person guessing game. 
+ 
 **[react-ai-chat-actions](https://github.com/kirilinsky/react-ai-chat-actions)** `NPM` · `React` · Actions bar for AI (and not only) chats.
 
-**[Pad menu](https://padmenu.vercel.app/)**  `React` · `PWA` · iPad menu, just for fun. 
  
