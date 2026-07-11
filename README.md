@@ -90,6 +90,25 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
     </td>
   </tr>
+ <tr>
+  <td width="240" align="center" valign="middle">
+    <a href="https://anyaround.vercel.app/">
+      <img src="https://raw.githubusercontent.com/kirilinsky/anyaround/main/logo.png" width="200" alt="anyaround logo" />
+    </a>
+  </td>
+  <td valign="middle">
+    <h3>
+      <a href="https://anyaround.vercel.app/">anyaround</a>
+    </h3>
+    <p>
+      Localized names &amp; flags for any locale — regions, languages, currencies.
+    </p>
+    <p>
+      zero dependencies · <code>US</code> → 🇺🇸 United States · smart code detection · region / language / script / currency / calendar · 200+ locales via native <code>Intl</code>
+    </p>
+    <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
+  </td>
+</tr>
   <tr>
     <td width="240" align="center" valign="middle">
       <a href="https://calendar-demo-pi.vercel.app">
