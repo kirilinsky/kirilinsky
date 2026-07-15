@@ -35,80 +35,23 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 <table width="100%">
   <tr>
     <td width="240" align="center" valign="middle">
-      <a href="https://anywhen-kappa.vercel.app/">
-        <img src="https://i.ibb.co/hRbGtqjM/gt.png" width="200" alt="anywhen logo" />
+      <a href="https://anyfamily.site/">
+        <img src="https://raw.githubusercontent.com/kirilinsky/anyfamily/main/logo.png" width="200" alt="anyfamily logo" />
       </a>
     </td>
     <td valign="middle">
       <h3>
-        <a href="https://anywhen-kappa.vercel.app/">anywhen</a>
+        <a href="https://anyfamily.site/">the any* family</a>
       </h3>
       <p>
-        Tiny human-readable date/time formatting for any locale.
+        Micro, zero-dependency Intl tools for any locale — dates, money, lists, names &amp; flags.
       </p>
       <p>
-        <code>~1.3kb</code> · zero dependencies · smart / absolute / relative modes · SSR-safe · 200+ locales via native <code>Intl</code>
+        <code>anywhen</code> · <code>anyamount</code> · <code>anymany</code> · <code>anyaround</code> · one function each · zero data files · 200+ locales via native <code>Intl</code>
       </p>
       <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
     </td>
   </tr>
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <a href="https://anyamount.vercel.app">
-        <img src="https://raw.githubusercontent.com/kirilinsky/anyamount/main/logo.png" width="200" alt="anyamount logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>
-        <a href="https://anyamount.vercel.app/">anyamount</a>
-      </h3>
-      <p>
-        Tiny number formatting for any locale — compact, currency, units.
-      </p>
-      <p>
-        <code>~1.5kb</code> · zero dependencies · <code>1.2M</code> / <code>€1,999</code> / <code>3.2 GB</code> · 200+ locales via native <code>Intl</code>
-      </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <a href="https://anymany.vercel.app/">
-        <img src="https://raw.githubusercontent.com/kirilinsky/anymany/main/logo.png" width="200" alt="anymany logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>
-        <a href="https://anymany.vercel.app/">anymany</a>
-      </h3>
-      <p>
-        Smart list formatter for any locale — "banana, apple, and cherry", sorted right, joined right.
-      </p>
-      <p>
-        <code>~0.5kb</code> · zero dependencies · conjunction / disjunction / unit · locale-aware sort · max + overflow · SSR-safe · native <code>Intl</code>
-      </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
-    </td>
-  </tr>
- <tr>
-  <td width="240" align="center" valign="middle">
-    <a href="https://anyaround.vercel.app/">
-      <img src="https://raw.githubusercontent.com/kirilinsky/anyaround/main/logo.png" width="200" alt="anyaround logo" />
-    </a>
-  </td>
-  <td valign="middle">
-    <h3>
-      <a href="https://anyaround.vercel.app/">anyaround</a>
-    </h3>
-    <p>
-      Localized names &amp; flags for any locale — regions, languages, currencies.
-    </p>
-    <p>
-      zero dependencies · <code>US</code> → 🇺🇸 United States · smart code detection · region / language / script / currency / calendar · 200+ locales via native <code>Intl</code>
-    </p>
-    <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
-  </td>
-</tr>
   <tr>
     <td width="240" align="center" valign="middle">
       <a href="https://calendar-demo-pi.vercel.app">
