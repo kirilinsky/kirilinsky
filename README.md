@@ -47,7 +47,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
         Micro, zero-dependency Intl tools for any locale — dates, money, lists, names &amp; flags.
       </p>
       <p>
-        <code>anywhen</code> · <code>anyamount</code> · <code>anymany</code> · <code>anyaround</code> · one function each · zero data files · 200+ locales via native <code>Intl</code>
+        <code>anywhen</code> · <code>anyamount</code> · <code>anymany</code> · <code>anylong</code> · <code>anyaround</code> · one function each · zero data files · 200+ locales via native <code>Intl</code>
       </p>
       <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
     </td>
