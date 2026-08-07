@@ -49,7 +49,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       <p>
         <code>anywhen</code> · <code>anyamount</code> · <code>anymany</code> · <code>anyaround</code> · <code>anylong</code> · <code>anyplural</code> · <code>anyword</code> · <code>anylocale</code> — or all eight via <code>anyfamily</code>
       </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
+      <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code> · <a href="https://github.com/kirilinsky/anyfamily">⭐ star the repo</a></sub>
     </td>
   </tr>
 
@@ -69,7 +69,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       <p>
         range &amp; multi-select · keyboard navigation · themeable via CSS tokens
       </p>
-      <sub><code>NPM</code> · <code>React</code> · <code>UI</code></sub>
+      <sub><code>NPM</code> · <code>React</code> · <code>UI</code> · <a href="https://github.com/kirilinsky/dateforge-react-calendar">⭐ star the repo</a></sub>
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       <p>
         A headless, composable React component for giveaways, raffles, and slot-machine UIs. 
       </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code></sub>
+      <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code> · <a href="https://github.com/kirilinsky/react-raffle-picker">⭐ star the repo</a></sub>
     </td>
   </tr>
   <tr>
@@ -107,11 +107,10 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       <p>
         Generate, inject, and manage design tokens without hand-writing every custom property.
       </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code></sub>
+      <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code> · <a href="https://github.com/kirilinsky/varth">⭐ star the repo</a></sub>
     </td>
   </tr>
-</table>
-
+</table> 
 ---
 
 ### And some more
