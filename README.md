@@ -44,14 +44,15 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
         <a href="https://anyfamily.site/">the any* family</a>
       </h3>
       <p>
-        Micro, zero-dependency Intl tools for any locale — dates, money, lists, names &amp; flags.
+        Eight micro, zero-dependency Intl tools — one function each, zero data files, 200+ locales via native <code>Intl</code>.
       </p>
       <p>
-        <code>anywhen</code> · <code>anyamount</code> · <code>anymany</code> · <code>anylong</code> · <code>anyaround</code> · one function each · zero data files · 200+ locales via native <code>Intl</code>
+        <code>anywhen</code> · <code>anyamount</code> · <code>anymany</code> · <code>anyaround</code> · <code>anylong</code> · <code>anyplural</code> · <code>anyword</code> · <code>anylocale</code> — or all eight via <code>anyfamily</code>
       </p>
       <sub><code>NPM</code> · <code>TS</code> · <code>Intl</code> · <code>any*</code></sub>
     </td>
   </tr>
+
   <tr>
     <td width="240" align="center" valign="middle">
       <a href="https://calendar-demo-pi.vercel.app">
