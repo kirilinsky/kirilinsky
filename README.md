@@ -116,7 +116,9 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
 ---
 
 ### And some more
- 
+
+**[announce-queue](https://github.com/kirilinsky/announce-queue)** `NPM` · `React` · Screen-reader announcements queue, one message at a time.
+  
 **[Roostr](https://roostr-two.vercel.app/)** `Next.js` · `Canvas` · Collect-trade-fight game with small roosters. 
 
 **[next-language-selector](https://www.npmjs.com/package/next-language-selector)** `NPM` · Lightweight cookie-based language manager for Next.js.
