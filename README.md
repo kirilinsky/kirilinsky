@@ -73,45 +73,7 @@ Small frontend tools, UI primitives, and tiny attempts to make developer experie
       </p>
       <sub><code>NPM</code> · <code>React</code> · <code>UI</code> · <a href="https://github.com/kirilinsky/dateforge-react-calendar">⭐ star the repo</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <a href="https://react-raffle-one.vercel.app">
-        <img src="https://i.ibb.co/k2MRQCqT/logo-nbg.png" width="205" alt="raffle logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>
-        <a href="https://react-raffle-one.vercel.app/">React Raffle Picker</a>
-      </h3>  
-      <p>
-        React like you just won.
-      </p>
-      <p>
-        A headless, composable React component for giveaways, raffles, and slot-machine UIs. 
-      </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code> · <a href="https://github.com/kirilinsky/react-raffle-picker">⭐ star the repo</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="240" align="center" valign="middle">
-      <a href="https://kirilinsky.github.io/varth">
-        <img src="https://i.ibb.co/LDRCjDTj/varth-logo-t.png" width="205" alt="var(-th) logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3>
-        <a href="https://kirilinsky.github.io/varth">var(-th)</a>
-      </h3>  
-      <p>
-        Type-safe CSS theme creator and injector.
-      </p>
-      <p>
-        Generate, inject, and manage design tokens without hand-writing every custom property.
-      </p>
-      <sub><code>NPM</code> · <code>TS</code> · <code>CSS</code> · <a href="https://github.com/kirilinsky/varth">⭐ star the repo</a></sub>
-    </td>
-  </tr>
+  </tr> 
 </table> 
 ---
 
