@@ -9,7 +9,8 @@ I build things. Sometimes they work.
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 
-✍️ Occasionally writing about frontend on **[Medium](https://medium.com/@kirilinsky)**
+✍️ Occasionally writing about frontend on **[Medium](https://medium.com/@kirilinsky)** and sometimes creating **[mods](https://steamcommunity.com/id/kirilinsky/myworkshopfiles)** for games.
+
   
 ### What I'm into
 
